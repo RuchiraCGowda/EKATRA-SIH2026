@@ -1,0 +1,6 @@
+{
+  "name": "EKATRA - Formal E-Waste Digital Bridge",
+  "description": "A digital bridge connecting informal e-waste collectors with authorized recyclers, transparent prices, traceable handovers, and regulatory oversight.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
